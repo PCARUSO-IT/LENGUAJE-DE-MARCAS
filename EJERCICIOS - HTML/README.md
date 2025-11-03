@@ -29,7 +29,7 @@ En esta carpeta se **subirán todos los ejercicios realizados del módulo de LEN
 <h2 align="center">👤 AUTOR 👤</h2>
 
 <p align="center">
-**Xavi Caruso Nieto**<br>
-Clase: ASIX<br>
+**Pol Caruso Nieto**<br>
+Clase: 1r ASIX <br>
 Módulo: Lenguaje de Marcas
 </p>
