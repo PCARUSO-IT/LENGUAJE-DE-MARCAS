@@ -1,37 +1,40 @@
+---
+
 <h2 align="center">🎨 CARPETA DE EJERCICIOS HECHOS - CSS (ASIX) 🎨</h2>
 
-<div style="border: 2px solid #4CAF50; padding: 15px; margin: 20px 0; border-radius: 10px; background-color: #f0f8ff;">
 <p align="center">¡Bienvenido Xavi! 👋</p>
+
 <p align="center">En esta carpeta se <b>subirán todos los ejercicios realizados del módulo de LENGUAJE DE MARCAS (CSS)</b> de ASIX. Cada ejercicio estará en un archivo <b>.zip</b>, y dentro de ese ZIP estará la <b>actividad completa hecha</b>.</p>
-</div>
+
+---
 
 <h2 align="center">🗂️ CONTENIDO DE LOS ZIP'S 🗂️</h2>
 
-<div style="border: 2px solid #2196F3; padding: 15px; margin: 20px 0; border-radius: 10px; background-color: #e6f2ff;">
 <p align="center">
 - Archivos `.html`<br>
 - Archivos `.css`<br>
 - Imágenes y recursos utilizados<br>
 - Documentación opcional de la actividad
 </p>
-</div>
+
+---
 
 <h2 align="center">📝 DESCRIPCIÓN 📝</h2>
 
-<div style="border: 2px solid #FF9800; padding: 15px; margin: 20px 0; border-radius: 10px; background-color: #fff3e0;">
 <p align="center">
 💾 Todos los ejercicios se subirán en ZIPs dentro de esta carpeta<br>
 🎨 Cada ZIP contiene la actividad hecha y lista para revisar
 </p>
-</div>
+
+---
 
 <h2 align="center">👤 AUTOR 👤</h2>
 
-<div style="border: 2px solid #9C27B0; padding: 15px; margin: 20px 0; border-radius: 10px; background-color: #f3e5f5;">
 <p align="center">
 <b>Pol Caruso Nieto</b><br>
 Clase: 1r ASIX<br>
 Módulo: Lenguaje de Marcas
 </p>
-</div>
+
+---
 
