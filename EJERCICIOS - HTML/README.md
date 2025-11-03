@@ -13,7 +13,7 @@ En esta carpeta se **subirán todos los ejercicios realizados del módulo de LEN
 - Documentación opcional de la actividad
 </p>
 
-
+---
 <h2 align="center">📝 DESCRIPCIÓN 📝</h2>
 
 <p>
