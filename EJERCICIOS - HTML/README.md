@@ -1,21 +1,22 @@
-# 🎨 Carpeta de Ejercicios - CSS (ASIX)
+# 🎨 CARPETA DE EJERCICIOS HECHOS - CSS (ASIX)
 
-¡Bienvenido/a! 👋  
+¡Bienvenido Xavi! 👋  
 
-En esta carpeta se **subirán todos los ejercicios realizados del módulo de CSS** de ASIX. Aquí podrás encontrar todo el material práctico que vamos desarrollando durante el curso.  
+En esta carpeta se **subirán todos los ejercicios realizados del módulo de LENGUAJE DE MARCAS (CSS)** de ASIX. Cada ejercicio estará en un archivo **.zip**, y dentro de ese ZIP estará la **actividad completa hecha**.
+
+---
+---
+
+## 📝 Contenido de los ZIPs
+
+- Archivos `.html`  
+- Archivos `.css`  
+- Imágenes y recursos utilizados  
+- Documentación opcional de la actividad  
 
 ---
 
-## 📝 Contenido de la Carpeta
+## 🚀 Nota
 
-- Ejercicios de **selectores y propiedades CSS**
-- Ejercicios de **layout y diseño (flexbox, grid, etc.)**
-- Ejercicios de **animaciones y transiciones**
-- Mini proyectos prácticos de estilo web  
-
----
-
-## 📌 Cómo usar esta carpeta
-
-1. **Abrir los ejercicios:** Haz clic en cada archivo `.css` o `.html` relacionado para ver cómo se aplican los estilos.  
-2. **Subir nuevos ejercicios:** Añade tus archivos siguiendo esta estructura sugerida:  
+💾 Todos los ejercicios se subirán en ZIPs dentro de esta carpeta  
+🎨 Cada ZIP contiene la actividad hecha y lista para revisar
