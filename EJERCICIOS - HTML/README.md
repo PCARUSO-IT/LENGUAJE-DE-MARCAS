@@ -1,6 +1,6 @@
 <h2 align="center">🎨 CARPETA DE EJERCICIOS HECHOS - CSS (ASIX) 🎨</h2>
 
-<p align="center">¡Bienvenido Xavi! 👋</p>
+<p>¡Bienvenido Xavi! 👋</p>
 
 En esta carpeta se **subirán todos los ejercicios realizados del módulo de LENGUAJE DE MARCAS (CSS)** de ASIX. Cada ejercicio estará en un archivo **.zip**, y dentro de ese ZIP estará la **actividad completa hecha**.
 
@@ -8,7 +8,7 @@ En esta carpeta se **subirán todos los ejercicios realizados del módulo de LEN
 
 <h2 align="center">🗂️ CONTENIDO DE LOS ZIP'S 🗂️</h2>
 
-<p 
+<p>
 - Archivos `.html`<br>
 - Archivos `.css`<br>
 - Imágenes y recursos utilizados<br>
