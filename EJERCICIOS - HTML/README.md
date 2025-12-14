@@ -8,24 +8,6 @@
 
 ---
 
-<h2 align="center">🗂️ CONTENIDO DE LOS ZIP'S 🗂️</h2>
-
-<p align="center">
-- Archivos `.html`<br>
-- Imágenes y recursos utilizados<br>
-- Documentación opcional de la actividad
-</p>
-
----
-
-<h2 align="center">📝 DESCRIPCIÓN 📝</h2>
-
-<p align="center">
-💾 Todos los ejercicios se subirán en ZIPs dentro de esta carpeta<br>
-🎨 Cada ZIP contiene la actividad hecha y lista para revisar
-</p>
-
----
 
 <h2 align="center">👤 AUTOR 👤</h2>
 
